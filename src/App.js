@@ -19,7 +19,11 @@ function App() {
 
   return (
     <div className="App">
-      <h1>{advice}</h1>
+      <div className="card">
+        <h1 className="heading">
+          {advice}
+        </h1>
+      </div>
     </div>
   );
 }
