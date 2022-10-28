@@ -14,7 +14,7 @@ function App() {
     const newAdvice = Object.values(response).map(el => el.advice).join('');
 
     setAdvice(newAdvice);
-    console.log(newAdvice)
+    //console.log(newAdvice)
   };
 
   return (
@@ -23,6 +23,9 @@ function App() {
         <h1 className="heading">
           {advice}
         </h1>
+        <button onClick={fetchFunction} className="button">
+          <span>GIVE ME A NEW ADVICE!</span>
+        </button>
       </div>
     </div>
   );
