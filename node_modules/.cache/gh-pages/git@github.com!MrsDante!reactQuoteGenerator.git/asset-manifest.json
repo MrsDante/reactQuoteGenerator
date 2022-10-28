@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactQuoteGenerator/static/css/main.7093dd14.css",
+    "main.js": "/reactQuoteGenerator/static/js/main.ec6898a4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactQuoteGenerator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/wallpaperbetter.jpg": "/reactQuoteGenerator/static/media/wallpaperbetter.fb2e837821d1420a7903.jpg",
+    "index.html": "/reactQuoteGenerator/index.html",
+    "main.7093dd14.css.map": "/reactQuoteGenerator/static/css/main.7093dd14.css.map",
+    "main.ec6898a4.js.map": "/reactQuoteGenerator/static/js/main.ec6898a4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactQuoteGenerator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7093dd14.css",
+    "static/js/main.ec6898a4.js"
+  ]
+}

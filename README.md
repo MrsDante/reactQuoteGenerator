@@ -1,3 +1,14 @@
+# Описание
+
+Приложение делает запрос к базе данных [цитат](https://api.adviceslip.com) и выводит на экран рандомную цитату. При клике на кнопку цитата обновляется на новую.
+
+# Использованные технологии
+
+React, react hooks
+
+# GitHub Pages
+[Посмотреть!](https://mrsdante.github.io/reactQuoteGenerator/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
